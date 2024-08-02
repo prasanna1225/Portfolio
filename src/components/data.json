@@ -1,0 +1,52 @@
+[
+    {
+    "id":"1",
+    "github":"https://github.com/prasanna1225/Full-Stack-Booking-App",
+    "deploy":"/projects",
+    "title":"Booking and Renting App",
+    "description":"Develop a fullstack application that Enabled users to easily upload images of the places they are booking or renting",
+    "technologies":"React.js, Node.js, Express.js, MongoDB, Vite, HTML&CSS"
+},
+{
+    "id":"2",
+    "github":"https://github.com/prasanna1225/Gym-Monster",
+    "deploy":"https://prasanna1225.github.io/Gym-Monster/",
+    "title":"Fitness Website",
+    "description":"Built a Completely Responsive Gym Website that shows Exercise according to the category chosen and YouTube videos, exercise information, and GIFs related to it",
+    "technologies":"React.js, JavaScript, Rapid APIs, HTML&CSS"
+},
+{
+    "id":"3",
+    "github":"https://github.com/prasanna1225/Recipe-App",
+    "deploy":"https://prasanna1225.github.io/Recipe-App/",
+    "title":"Recipe Search Application",
+    "description":"Create a user-friendly recipe search application that enables users to easily access delicious recipes by entering their desired dish or ingredient, all powered by a robust API integration.",
+    "technologies":"React.js, JavaScript, Edamam API, HTML&CSS"
+},
+{
+    "id":"4",
+    "github":"https://github.com/prasanna1225/The-Weather-App",
+    "deploy":"https://prasanna1225.github.io/The-Weather-App/",
+    "title":"Weather Fetching API",
+    "description":"Enabling users to input a city name and obtain real-time temperature in Celsius by integrating the OpenWeatherMap API integration.",
+    "technologies":"React.js, OpenWeatherMap API, HTML&CSS"
+},
+{
+    "id":"5",
+    "github":"https://github.com/prasanna1225/SnakeGame",
+    "deploy":"https://prasanna1225.github.io/SnakeGame/",
+    "title":"SnakeGame ",
+    "description":"SnakeGame",
+    "technologies":"JavaScript, HTML&CSS"
+},
+{
+    "id":"6",
+    "github":"https://github.com/prasanna1225/restaurent-UI",
+    "deploy":"https://prasanna1225.github.io/restaurent-UI/",
+    "title":"Restaurent UI",
+    "description":"Design and Developed a Restaurent UI ",
+    "technologies":"HTML, CSS"
+}
+
+]
+

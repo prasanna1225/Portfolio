@@ -1,0 +1,22 @@
+.text-animation{
+    font-weight: 600;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+
+}
+
+@media screen and (max-width:790px) {
+    .text-animation{
+      
+        font-size: 2rem;
+       
+    }
+}
+
+@media screen and (max-width:690px) {
+    .text-animation{
+      
+        font-size: 1.5rem;
+       
+    }
+}
