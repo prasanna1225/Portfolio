@@ -1,33 +1,38 @@
-
 import React from 'react'
 
-import Pic from '../../assets/pic.jpg';
+import Pic from '../../assets/prasannaNew.jpg';
 import './about.css';
 const About = () => {
   return (
-      <div className='about-me' id='about'>
+    <div id='about' className='about-me-container'>
+    <h1 className='about-me-heading'>About Me</h1>
+      <div className='about-me' >
+       
        <div className='about-left-content'>
-       <h1>About Me</h1>
+      
        <img src={Pic} alt='prassu'/>
     
        </div>
        <div className='about-right-content'>
-          <p>I'm a final-year undergraduate student pursuing a degree in computer science. I've actively immersed myself in exploring and mastering various technologies. Building several impressive web projects has been a thrilling testament to my passion for learning and innovation within this field.</p>
+          <p>Currently working as a Graduate Trainee Engineer at GoDigit Insurance, specializing in backend development with Java, Spring Boot, and PostgreSQL. To expand my expertise, I have also gained hands-on experience in frontend technologies like React, along with other essential libraries. Passionate about building scalable solutions, I continuously refine my full-stack development skills to create efficient and seamless applications.</p>
           <h3>Here are some technologies I have been working with: </h3>
          <ul className='skill-list'>
-          <li>HTML & CSS</li>
-          <li>JavaScript</li>
-          <li>React.js</li>
-          <li>Node.js</li>
-          <li>MongoDb</li>
-          <li>Git & GitHub</li>
-          <li>Python</li>
           <li>Java</li>
+          <li>React.js</li>
+          <li>Python</li>
+          <li>Node.js</li>
+          <li>JavaScript</li>
+          <li>PostgreSQL</li>
           <li>SQL</li>
-         </ul>
+          <li>MongoDb</li>
+          <li>HTML & CSS</li>
+          <li>Git & GitHub</li>
+          <li>SpringBoot</li>
+       
+        </ul>
        </div>
       </div>
-      
+      </div>
   )
 }
 

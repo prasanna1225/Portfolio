@@ -1,25 +1,30 @@
 
 
-
+.about-me-container{
+    margin: 20px 0px 100px 0px;
+    
+}
 .about-me{
     display: flex;
     align-items: center;
     justify-content:space-around;
     color: #F6F6F5;
-    margin: 20px 0px 100px 0px;
+    
     flex-direction: row;
     
    
 }
 
-.about-left-content h1{
-    margin-bottom: 30px;
+.about-me-heading{
+   
+    color: #F6F6F5;
+    margin: 20px 0px 30px 95px;
 }
 
 .about-left-content img{
 width: 300px;
-height: 350px;
-border-radius: 20px;
+height: 330px;
+border-radius: 40px;
 border: 2px solid #F6F6F5;
 
 }
